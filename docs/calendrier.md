@@ -2,7 +2,7 @@
 food: Pizza
 ---
 
-<h2>Calendrier</h2>
+## Calendrier
 
 <ul>
 {% for match in site.data.calendrier %}
@@ -12,4 +12,5 @@ food: Pizza
 
 {% endfor %}
 </ul>
+
 {{ page.food }}
