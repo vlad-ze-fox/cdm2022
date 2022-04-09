@@ -1,0 +1,15 @@
+---
+food: Pizza
+---
+
+<h2>Calendrier</h2>
+
+<ul>
+{% for match in site.data.calendrier %}
+<li>
+    {{ match.Equipe1 }} - {{ match.Equipe2 }}
+</li>
+
+{% endfor %}
+</ul>
+{{ page.food }}
