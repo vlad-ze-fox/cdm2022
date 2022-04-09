@@ -44,9 +44,26 @@ def create_pronos_file(phase, joueur):
 
 def generate_resultats_md():
     res = get_resultats()
-    print(res, len(res))
+    cal = get_csv('docs/_data/calendrier.csv')
+    matches = [[e[4],e[5]] for e in cal[1:] if len(e)==6]   # elem[0] = equipe1, elem[1] = equipe2
     
+    completed_res = []
+    for r in res:
+        if r[0]=='':
+            break
+        completed_res.append(r.copy())
+        
+    print(completed_res)
     
+    with open('docs/resultats.md', 'w', encoding='utf-8') as fic:
+        fic.write('## Résultats\n\n')
+        fic.write('#')
+        if len(completed_res)>0:
+            fic.write('|'.join(['Equipe1','Score1','Score2','Equipe2'])+'\n')
+            fic.write('|'.join(['----:',':---:',':---:',':----'])+'\n')
+            for index, r in enumerate(completed_res):
+                row = [matches[index][0], r[0], r[1], matches[index][1]]
+                fic.write('|'.join(row)+'\n')
 
 # MAIN #########################################################################
 
