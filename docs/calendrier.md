@@ -3,7 +3,7 @@
 ### Phase de Poules
 
 | Date | Groupe | Equipe1 | Equipe2 |
-| ---- | ------ | ------- | ------- |
+| ---- | :----: | ------- | ------- |
 {% for match in site.data.calendrier %}{% if match.Phase != null %}
 ### {{ match.Phase }}
 
