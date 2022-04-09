@@ -1,0 +1,49 @@
+Phase,Date,Heure,Groupe,Equipe1,Score1,Score2,Equipe2
+Phase de Poules,21/11/2022,11:00,A,Sénégal,,,Pays-Bas
+,21/11/2022,14:00,B,Angleterre,,,Iran
+,21/11/2022,17:00,A,Qatar,,,Equateur
+,21/11/2022,20:00,B,USA,,,EUR
+,22/11/2022,11:00,C,Argentine,,,Arabie Saoudite
+,22/11/2022,14:00,D,Danemark,,,Tunisie
+,22/11/2022,17:00,C,Mexique,,,Pologne
+,22/11/2022,20:00,D,France,,,ICP1
+,23/11/2022,11:00,F,Maroc,,,Croatie
+,23/11/2022,14:00,E,Allemagne,,,Japon
+,23/11/2022,17:00,E,Espagne,,,ICP2
+,23/11/2022,20:00,F,Belgique,,,Canada
+,24/11/2022,11:00,G,Suisse,,,Cameroun
+,24/11/2022,14:00,H,Uruguay,,,Corée
+,24/11/2022,17:00,H,Portugal,,,Ghana
+,24/11/2022,20:00,G,Brésil,,,Serbie
+,25/11/2022,11:00,B,EUR,,,Iran
+,25/11/2022,14:00,A,Qatar,,,Sénégal
+,25/11/2022,17:00,A,Pays-Bas,,,Equateur
+,25/11/2022,20:00,B,Angleterre,,,USA
+,26/11/2022,11:00,D,Tunisie,,,ICP1
+,26/11/2022,14:00,C,Pologne,,,Arabie Saoudite
+,26/11/2022,17:00,D,France,,,Danemark
+,26/11/2022,20:00,C,Argentine,,,Mexique
+,27/11/2022,11:00,E,Japon,,,ICP2
+,27/11/2022,14:00,F,Belgique,,,Maroc
+,27/11/2022,17:00,F,Croatie,,,Canada
+,27/11/2022,20:00,E,Espagne,,,Allemagne
+,28/11/2022,11:00,G,Cameroun,,,Serbie
+,28/11/2022,14:00,H,Corée,,,Ghana
+,28/11/2022,17:00,G,Brésil,,,Suisse
+,28/11/2022,20:00,H,Portugal,,,Uruguay
+,29/11/2022,16:00,A,Equateur,,,Sénégal
+,29/11/2022,16:00,A,Pays-Bas,,,Qatar
+,29/11/2022,20:00,B,EUR,,,Angleterre
+,29/11/2022,20:00,B,Iran,,,USA
+,30/11/2022,16:00,D,ICP1,,,Danemark
+,30/11/2022,16:00,D,Tunisie,,,France
+,30/11/2022,20:00,C,Pologne,,,Argentine
+,30/11/2022,20:00,C,Arabie Saoudite,,,Mexique
+,1/12/2022,16:00,F,Croatie,,,Belgique
+,1/12/2022,16:00,F,Canada,,,Maroc
+,1/12/2022,20:00,E,Japon,,,Espagne
+,1/12/2022,20:00,E,ICP2,,,Allemagne
+,2/12/2022,16:00,H,Ghana,,,Uruguay
+,2/12/2022,16:00,H,Corée,,,Portugal
+,2/12/2022,20:00,G,Serbie,,,Suisse
+,2/12/2022,20:00,G,Cameroun,,,Brésil
